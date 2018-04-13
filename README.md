@@ -1,4 +1,4 @@
-# ip3
+# Timeline tracker
 
 > A Vue.js project
 
