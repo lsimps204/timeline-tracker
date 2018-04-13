@@ -12,14 +12,16 @@ Technologies used:
 * Vue.js: the JavaScript framework used to build the single page application.
 * Vue-router: for front-end routing.
 * Vuex: to allow use of the Flux architectural pattern, where application state is housed in a single store available to all components.
-*  d3.js: for creating visualizations based on data existing in the store.
-*  Jest/Vue-test-utils: used in combination to allow testing of application components
-*  Vee-validate: For validating user form inputs
-*  Webpack: for building the application and compiling assets
+* d3.js: for creating visualizations based on data existing in the store.
+* Google Maps API
+* Jest/Vue-test-utils: used in combination to allow testing of application components
+* Vee-validate: For validating user form inputs
+* Webpack: for building the application and compiling assets
+* Bootstrap and Bulma: CSS frameworks for styling the app.
 
 Server:
-*  Flask: Python web micro-framework for forwarding the SPA Axios requests to the API. Forwarding done via the Requests library.
-*  Node/Express: Forwards the SPA Axios requests to the API.
+* Flask: Python web micro-framework for forwarding the SPA Axios requests to the API. Forwarding done via the Requests library.
+* Node/Express: Forwards the SPA Axios requests to the API.
 
 
 ## Build Setup
